@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josehernandezthesecond
-- 👀 I’m interested in ... data science
+- 👀 I’m interested in ... data science and software development
 - 🌱 I’m currently learning ... data analytics and responsive web design
 
 <!---
