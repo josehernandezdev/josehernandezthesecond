@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josehernandezthesecond
+- 👋 Hi, I’m @josehernandezdev
 - 👀 I’m interested in data science and app development
 
 <!---
